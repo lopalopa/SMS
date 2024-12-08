@@ -32,16 +32,24 @@ Make sure you have the following installed on your system:
 2.**Set up your local server**:
 
 Move the project folder to the htdocs directory (for XAMPP) or the corresponding directory for your local server.
+
+
 3.**Create a MySQL database**:
 
 Open phpMyAdmin from your local server (usually http://localhost/phpmyadmin).
 Create a new database called student_management_system.
+
+
 4.**Import the database schema**:
 
 Go to the SQL tab in phpMyAdmin and paste the contents of schema.sql (provided in the project files) to create the necessary tables.
+
+
 5.**Configure database connection**:
 
 Open db.php in your project directory and update the database connection details (hostname, username, password, and database name).
+
+
 6.**Run the project**:
 
 Open your browser and go to http://localhost/student-management-system.
