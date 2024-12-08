@@ -6,10 +6,8 @@ A simple and efficient Student Management System developed using **PHP** and **M
 
 - **Student CRUD Operations**: Add, view, edit, and delete student information.
 - **Class Management**: Create and manage student classes.
-- **Authentication**: Login and registration for users (admin and regular users).
 - **Responsive Design**: Designed with **Bootstrap** for responsive and user-friendly interfaces.
 - **Database Integration**: Utilizes **MySQL** to store data securely.
-- **Role-based Access**: Admins can manage users and perform all CRUD operations, while regular users can view and update their own information.
 
 ## Tech Stack
 
